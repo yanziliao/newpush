@@ -1,3 +1,5 @@
-You are in 'detached HEAD' state. You can look around, make experimental
-changes and commit them, and you can discard any commits you make in this
-state without impacting any branches by performing another checkout.
+You are in 'detached HEAD' state. You can look around,
+ make experimentalchanges and commit them,
+ and you can discard any commits you make in this
+state without impacting any branches
+ by performing another checkout.

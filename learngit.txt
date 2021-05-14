@@ -3,4 +3,5 @@ You are in 'detached HEAD' state. You can look around,
  and you can discard any commits you make in this
 state without impacting any branches
  by performing another checkout.
-push remote branch.
+push remote branch
+more peaple together fresh a work.
